@@ -1,0 +1,19 @@
+﻿  app.cpp
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(33): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(46): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(55): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(65): warning C4305: “参数”: 从“double”到“float”截断
+  hitable_list.cpp
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\vector.h(21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\hitable_list.cpp(10): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  material.cpp
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\vector.h(21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  sphere.cpp
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\vector.h(21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\sphere.cpp(16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\sphere.cpp(23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(49): warning C4715: “color”: 不是所有的控件路径都返回值
+  RayTracing.vcxproj -> C:\Users\DXT00\Desktop\Graphics\RayTracing\Debug\RayTracing.exe

@@ -1,0 +1,11 @@
+﻿  app.cpp
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\camera.h(39): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(33): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(48): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(49): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(57): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(69): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(70): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dxt00\desktop\graphics\raytracing\raytracing\app.cpp(71): warning C4305: “参数”: 从“double”到“float”截断
+  RayTracing.vcxproj -> C:\Users\DXT00\Desktop\Graphics\RayTracing\x64\Debug\RayTracing.exe
